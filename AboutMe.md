@@ -1,6 +1,6 @@
 lorem ipsum
-## Moja strona !!
-
+## Moja strona !!!
+!
 #### Cześć, to ja Kamil i lubię chipsy.
 
 
